@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a student at Codeup learning Data Science. 
+
+This bio is just a starter, check back for future updates!
 <!--
 **Michael-Nelson361/Michael-Nelson361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
