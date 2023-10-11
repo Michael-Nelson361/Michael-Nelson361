@@ -1,8 +1,10 @@
 ### Hi there!
 
-I am a student at Codeup learning about data science! 
+I am a student at Codeup learning about data science!
 
-This bio is just a starter, check back for future updates!
+I was inspired to learn about AI from Ray Kurzweil and the movie Transcendence, and now I want to build systems to help advance the healthcare industry.
+
+I'm excited to learn more about data science from my awesome instructors here at Codeup!
 <!--
 **Michael-Nelson361/Michael-Nelson361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
